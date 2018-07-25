@@ -1,11 +1,32 @@
 package rest;
 
+
+
 public class Students {
 
     private int id;
     private String name;
     private String surname;
     private String email;
+    private String phone;
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public Students setPhone(String phone) {
+        this.phone = phone;
+        return this;
+    }
+
+    public Students(int id, String name, String surname, String email, String phone) {
+
+        this.id = id;
+        this.name = name;
+        this.surname = surname;
+        this.email = email;
+        this.phone = phone;
+    }
 
     public Students(int id, String name, String surname, String email) {
         this.id = id;
@@ -53,4 +74,5 @@ public class Students {
         this.email = email;
         return this;
     }
+
 }
