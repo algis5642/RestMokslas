@@ -7,16 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d9dba9a-74a8-4cd7-8b0e-db5dc04fd050" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/rest/MySecondRest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rest/utils/DbUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/properties/pro.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaRest_war_exploded/WEB-INF/classes/rest/MyFirstExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaRest_war_exploded/WEB-INF/classes/rest/MyFirstExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaRest_war_exploded/WEB-INF/classes/rest/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaRest_war_exploded/WEB-INF/classes/rest/Students.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRest/rest/MyFirstExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaRest/rest/MyFirstExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaRest/rest/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rest/MyFirstExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rest/MyFirstExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rest/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rest/Students.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +45,7 @@
       <file leaf-file-name="MySecondRest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/rest/MySecondRest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
+            <state relative-caret-position="53">
               <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -360,16 +351,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532454083177</updated>
-      <workItem from="1532454097289" duration="14285000" />
+      <workItem from="1532454097289" duration="14583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14285000" />
+    <option name="totallyTimeSpent" value="14583000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -389,9 +379,9 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32909605" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info anchor="right" id="Bean Validation" order="7" weight="0.3295302" />
       <window_info id="Web" side_tool="true" />
@@ -491,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/rest/MySecondRest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
+        <state relative-caret-position="53">
           <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
